@@ -8,6 +8,7 @@
       ][0] +
       "site%3A" +
       location.hostname +
+      "/d/" +
       "+" +
       search.replace(/.*[\?&]q=/, "");
     // window.open(href, "_blank");
